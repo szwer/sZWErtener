@@ -1,0 +1,1 @@
+web: gunicorn szwertener.wsgi --log-file -
